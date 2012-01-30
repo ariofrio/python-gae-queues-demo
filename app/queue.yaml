@@ -1,0 +1,6 @@
+queue:
+- name: demo
+  mode: pull
+  acl:
+  - user_email: riofrios@gmail.com
+  - user_email: shatterednirvana@gmail.com
